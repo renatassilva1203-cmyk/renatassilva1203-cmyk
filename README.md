@@ -28,4 +28,11 @@ Meu Link do Linkedin "[Renata Santos](https://www.linkedin.com/in/renatasantosil
     height="200" 
     style="padding-right: 10px;" 
     src=  src="https://github-readme-stats.vercel.app/api?username= RenataSSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+
+  ## 🔗 Link do Projeto Rubeus
+
+
+Acesse o projeto através do link abaixo:
+
+[Visualizar Projeto](https://www.notion.so/Rubeus-3072a8bbd6fe80a385e7c325b728260d?source=copy_link)
   />
